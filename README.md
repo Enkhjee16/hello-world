@@ -1,2 +1,2 @@
 # hello-world
-first exercise
+first exercise for web programming
